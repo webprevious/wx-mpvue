@@ -13,7 +13,7 @@
       <a href="/pages/counter/main" class="counter">去往Vuex示例页面</a>
     </div>
     <div class="btn-wrap">
-      <van-button type="primary" @click="vantButton">测试</van-button>
+      <van-button type="primary" @click="vantButton">测试vant</van-button>
     </div>
   </div>
 </template>
